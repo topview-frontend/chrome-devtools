@@ -18,5 +18,5 @@
 3. 项目人力资源管理
 4. 项目沟通管理：进度报告
 
-> ![test](https://github-images.s3.amazonaws.com/help/repository/zen_mode.png)
+`![test](https://github-images.s3.amazonaws.com/help/repository/zen_mode.png)`
 
