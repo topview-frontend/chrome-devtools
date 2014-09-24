@@ -1,5 +1,33 @@
 要知道每个技巧的使用场景
 
+> 文档结构
+
+1. `Learn Basics`
+    - `Overview`
+    - `Development Workflow`
+    - `Using the Console`
+    - `Tips & Tricks`
+    - `Additional Resources`
+2. `Use Tools`
+    - `Inspecting & Tweaking`
+    - `Debugging Javascript`
+    - `Device Mode & Mobile Emulation`
+    - `Remote Debugging on Android with Chrome`
+    - `Saving Changes with Workspaces`
+3. `Performance & Profiling`
+    - `Evaluating network performance`
+    - `Using the Timeline`
+    - `Timeline Demo: Diagnosing forced synchronous layouts`
+    - `Profiling Javascript Performance`
+    - `Javascript Memory Profiling`
+4. `Reference`
+    - `Console API Reference`
+    - `Command Line API Reference`
+    - `DevTools Extensions API`
+    - `Keyboard Shortcuts`
+    - `Settings`
+    - `Remote Debugging Protocol`
+
 > 如何使用？
 
 1. 先在window装一个git客户端
