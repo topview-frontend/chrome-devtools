@@ -27,6 +27,8 @@
     - `Keyboard Shortcuts`
     - `Settings`
     - `Remote Debugging Protocol`
+    
+![got it](https://assets-cdn.github.com/images/modules/ajax/success.png?54c145c9)
 
 > 如何使用？
 
