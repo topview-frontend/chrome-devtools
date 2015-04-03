@@ -80,8 +80,7 @@ __Network__ 面板提供可以让你深入了解资源在被请求和下载时�
 
 **Audits** 面板能让你分析正在下载的页面。然后会为减少页面加载时间和提高感知(和实时)响应能力。如果想进一步了解，我们推荐使用[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-![audits panel](../../images/le
-arn_basics/audits-panel.png)
+![audits panel](../../images/learn_basics/audits-panel.png)
 某个审计提出的一些优化建议点
 
 #### Improving rendering performance
