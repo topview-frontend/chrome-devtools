@@ -5,7 +5,7 @@ __[Chrome Devtools Doc](https://developer.chrome.com/devtools)__ **(需要翻墙
 
 * `Learn Basics`
     - `Overview` [【Translation】](doc/learn_basics/overview.md) ![got it](images/status/success.png)
-    - `Development Workflow`
+    - `Development Workflow`[【Translation】](doc/learn_basics/authoring_development_workflow.md) ![got it](images/status/success.png)
     - `Using the Console`
     - `Tips & Tricks`
     - `Additional Resources`
